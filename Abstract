@@ -1,0 +1,5 @@
+This project entails the creation of a 10000mAh power bank, which is made up of two separate modules: a battery charging module and a booster module. 
+To carry out their primary functions, each of these modules contains a distinct circuit. 
+The portable device is made up of four Li-ion batteries, each rated at 3.7V and 2600mAh, that are connected in parallel. 
+The battery charging module is in charge of controlling the current flow to the batteries as well as charging overflow.
+In this protable device an extra feature of emergency light is built in the ine side of the Portable device
